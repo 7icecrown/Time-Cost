@@ -1,0 +1,20 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Kotlin tooling/cache
+.kotlin/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
+# Signing credentials (never commit private keys)
+*.jks
+*.keystore
+keystore.properties
